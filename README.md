@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there 👋 I'm siwusekkk, a novice programmer. 😎
+</h1>
 
-<!--
-**siwusekkk/siwusekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Currently learning ➜ python 🐍
 
-Here are some ideas to get you started:
+- 👑 Owner ➜ <a href="http://luckyclicker.pl" > Lucky Clicker 🖱️ </a>, <a href="http://siwus.xyz/luckyware.html" > LuckyWare.xyz 🔫 </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Dev ➜ html, css, ahk
+
+- 🖼️ Portfolio & all projects ➜ http://siwus.xyz
+
+- 📞 Contact:
+-     💭 Discord ➜ siwusekkk#1372
+-     🅵  Facebook ➜ SiwusDev
+-     📨 E-mail ➜ dev@siwus.xyz
