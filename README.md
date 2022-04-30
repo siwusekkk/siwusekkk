@@ -4,11 +4,11 @@
 
 - 🎓 Currently learning ➜ python 🐍
 
-- 👑 Owner ➜ <a target="_blank" href="http://luckyclicker.pl" > Lucky Clicker 🖱️ </a>, <a target="_blank" href="http://siwus.xyz/luckyware.html" > LuckyWare.xyz 🔫 </a>
+- 👑 Owner ➜ <a href="http://luckyclicker.pl" > Lucky Clicker 🖱️ </a>, <a href="http://siwus.xyz/luckyware.html" > LuckyWare.xyz 🔫 </a>
 
 - 💻 Dev ➜ html, css, ahk
 
-- 🖼️ Portfolio & all projects ➜ <a target="_blank" href="http://siwus.xyz" > siwus.xyz 🖱️ </a>
+- 🖼️ Portfolio & all projects ➜ http://siwus.xyz
 
 - 📞 Contact:
 -     💭 Discord ➜ siwusekkk#1372
