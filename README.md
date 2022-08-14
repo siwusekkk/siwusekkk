@@ -4,7 +4,7 @@
 
 - 🎓 Currently learning ➜ java 🐍
 
-- 👑 Owner ➜ <a target="_blank" href="http://luckyclicker.pl" > Lucky Clicker 🖱️ </a>, <a href="http://siwus.xyz/luckyware.html" > LuckyWare.xyz 🔫 </a>
+- 👑 Owner ➜ <a target="__blank" href="http://luckyclicker.pl" > Lucky Clicker 🖱️ </a>, <a href="http://siwus.xyz/luckyware.html" > LuckyWare.xyz 🔫 </a>
 
 - 💻 Dev ➜ html, css, ahk
 
