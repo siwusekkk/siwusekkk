@@ -4,7 +4,7 @@
   Hi there 👋 I'm siwusekkk, a novice programmer. 😎
 </h1>
 
-- 🎓 Currently learning ➜ java 🐍
+- 🎓 Currently learning ➜ java ☕
 
 - 👑 Owner ➜ <a href="http://luckyclicker.pl" target="_blank"  > Lucky Clicker 🖱️ </a>, <a href="http://siwus.xyz/luckyware.html" > LuckyWare.xyz 🔫 </a>
 
