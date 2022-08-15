@@ -16,3 +16,5 @@
 -     💭 Discord ➜ siwusekkk#1372
 -     🅵  Facebook ➜ SiwusDev
 -     📨 E-mail ➜ dev@siwus.xyz
+
+<image src="http://luckycode.pl/assets/pics/fala2.png" >
