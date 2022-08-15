@@ -1,3 +1,5 @@
+<image src="http://luckycode.pl/assets/pics/fala.png" >
+
 <h1 align="center">
   Hi there 👋 I'm siwusekkk, a novice programmer. 😎
 </h1>
