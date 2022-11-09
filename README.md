@@ -6,7 +6,7 @@
 
 - 🎓 Currently learning ➜ java ☕
 
-- 👑 Owner ➜ <a href="https://luckyhub.pl/" target="_blank"  > Lucky Hub ⚔️ (Best BoxPvP Server) </a>, <a href="http://luckyclicker.pl" target="_blank"  > Lucky Clicker 🖱️ </a>
+- 👑 Owner ➜ <a href="https://luckyhub.pl/" target="_blank"  > Lucky Hub ⚔️ </a>(Best BoxPvP Server), <a href="http://luckyclicker.pl" target="_blank"  > Lucky Clicker 🖱️ </a>
 
 - 💻 Dev ➜ html, css, ahk
 
