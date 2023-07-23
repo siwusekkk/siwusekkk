@@ -4,7 +4,7 @@
   Hi there 👋 I'm siwusekkk, a novice programmer. 😎
 </h1>
 
-- 🎓 Currently learning ➜ python 🐍, php 🐘
+- 🎓 Currently learning ➜ c#, php, py
 
 - 👑 Owner ➜ <a href="https://luckyhub.pl/" target="_blank"  > Lucky Hub ⚔️ </a>(Best BoxPvP Server), <a href="http://luckyclicker.pl" target="_blank"  > Lucky Clicker 🖱️ </a>
 
