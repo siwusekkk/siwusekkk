@@ -6,15 +6,9 @@
 
 - 🎓 Currently learning ➜ c#, php, py
 
-- 👑 Owner ➜ <a href="https://luckyhub.pl/" target="_blank"  > Lucky Hub ⚔️ </a>(Best BoxPvP Server), <a href="http://luckyclicker.pl" target="_blank"  > Lucky Clicker 🖱️ </a>
-
-- 💻 Dev ➜ html, css, ahk
-
-- 🖼️ Portfolio & all projects ➜ http://siwus.xyz
-
 - 📞 Contact:
--     💭 Discord ➜ siwusekkk#1372
--     🅵  Facebook ➜ SiwusDev
--     📨 E-mail ➜ dev@siwus.xyz
+-     💭 Discord ➜ siwusekkk
+-     🅵  Facebook ➜ SiwusDev (not replying rn)
+-     📨 E-mail ➜ szymonsiwinski@protonmail.com
 
 <image src="http://luckycode.pl/assets/pics/fala2.png" >
