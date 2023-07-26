@@ -4,7 +4,7 @@
   Hi there 👋 I'm siwusekkk, a novice programmer. 😎
 </h1>
 
-- 🎓 Currently learning ➜ c#, cpp, memory hacking
+- 🎓 Currently learning ➜ c#, c++, memory hacking
 
 - 📞 Contact:
 -     💭 Discord ➜ siwusekkk
